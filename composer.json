@@ -1,6 +1,6 @@
 {
     "name": "izyanzz/routerphp",
-    "type": "project",
+    "type": "library",
     "autoload": {
         "psr-4": {
             "Izyanz\\": "src/"
